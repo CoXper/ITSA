@@ -2,6 +2,10 @@
     "files.associations": {
         "stdio.h": "c",
         "xmemory": "c",
-        "xutility": "c"
+        "xutility": "c",
+        "iomanip": "cpp",
+        "iostream": "cpp",
+        "cmath": "cpp",
+        "ostream": "cpp"
     }
 }
